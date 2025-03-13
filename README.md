@@ -1,5 +1,5 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/moaatik" alt="moaatik's 42 stats" /></a>
 <div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/moaatik" alt="moaatik's 42 stats" /></a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
   <br/>
   <a href="https://git.io/typing-svg">
